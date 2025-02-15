@@ -1,0 +1,19 @@
+.pclass,
+.secondpclass {
+    color:black;
+    background-color:rgb(255, 132, 162);
+    font-family:Verdana, "DejaVu Sans", sans-serif;
+}
+.secondpclass {
+    font-size: 24px;
+}
+#notwo {
+    color:blue;
+    font-size: 36px;
+}
+#second_id {
+    color: black;
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
